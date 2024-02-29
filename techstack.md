@@ -3,14 +3,14 @@
 ## Tech Stack
 joshbrooks/web-component-schema-form is built on the following main stack:
 
-- [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
-- [Browserify](http://browserify.org/) – Front End Package Manager
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [Lodash](https://lodash.com) – Javascript Utilities & Libraries
-- [LiveReload](http://livereload.com) – Live Reloading
 - [Babel](http://babeljs.io/) – JavaScript Compilers
+- [Browserify](http://browserify.org/) – Front End Package Manager
 - [ESLint](http://eslint.org/) – Code Review
+- [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
+- [LiveReload](http://livereload.com) – Live Reloading
 - [rollup](http://rollupjs.org/) – JS Build Tools / JS Task Runners
+- [Lodash](https://lodash.com) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
 
@@ -20,14 +20,14 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 joshbrooks/web-component-schema-form is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/849/9esmqty2.png' alt='Browserify'/> [Browserify](http://browserify.org/) – Front End Package Manager
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'/> [Lodash](https://lodash.com) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/2601/128.png' alt='LiveReload'/> [LiveReload](http://livereload.com) – Live Reloading
 - <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
+- <img width='25' height='25' src='https://img.stackshare.io/service/849/9esmqty2.png' alt='Browserify'/> [Browserify](http://browserify.org/) – Front End Package Manager
 - <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/2601/128.png' alt='LiveReload'/> [LiveReload](http://livereload.com) – Live Reloading
 - <img width='25' height='25' src='https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg' alt='rollup'/> [rollup](http://rollupjs.org/) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'/> [Lodash](https://lodash.com) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
 
@@ -38,7 +38,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [joshbrooks/web-component-schema-form](https://github.com/joshbrooks/web-component-schema-form)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|17<br/>Tools used|01/05/24 <br/>Report generated|
+|17<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
